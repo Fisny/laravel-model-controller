@@ -3,7 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use app\Movie;
+
+use App\Movie;
 
 
 class HomeController extends Controller
